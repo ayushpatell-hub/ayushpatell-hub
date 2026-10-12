@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 B.Tech CSE (Data Science)  problem solver | <br>Finding hidden patterns in messy real-world datasets.<br>Learning skills everyday.
+💻 B.Tech CSE (AIML) <br> DSA with JAVA  problem solver | <br>Learning skills everyday.
 
 
 ## 🌐 Socials:
